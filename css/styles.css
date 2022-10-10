@@ -16,3 +16,7 @@ div.eee{
     margin-top: 200px;
     text-align: center;
 }
+.caret.caret-up {
+    border-top-width: 0;
+    border-bottom: 4px solid #fff;
+}
